@@ -1,4 +1,4 @@
-# AI-Based Autism Spectrum Disorder Detection
+# AI-Based Autism Spectrum Disorder Detection (Ongoing Project)
 
 ## Overview
 This project focuses on detecting behavioral patterns associated with Autism Spectrum
@@ -18,3 +18,8 @@ in this repository to maintain privacy and ethical standards.
 - TensorFlow / Keras
 - OpenCV
 - CNN, MobileNetV2
+
+## Project Status
+This is an ongoing academic project. Current work focuses on data preprocessing,
+model experimentation, and evaluation. Additional improvements and enhancements
+are planned as part of future development.
